@@ -6,7 +6,7 @@
 }
 
 .nav{
-	background-color: white;
+
 	font-family: "Times New Roman", Times, serif;
 	float: left;
 	padding: 0px;
@@ -49,9 +49,6 @@
 	height: auto;
 }
 
-.button{
-	color: greenyellow;
-}
 
 iframe{
 	margin: 6px;
